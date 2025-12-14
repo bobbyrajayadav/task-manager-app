@@ -1,0 +1,38 @@
+[
+  {
+    "id": 101,
+    "title": "Design Homepage UI",
+    "description": "Create wireframes and layout structure for the main landing page.",
+    "priority": "High",
+    "status": "To-Do",
+    "dueDate": "2025-02-12T09:00:00Z",
+    "createdAt": "2025-01-25T14:10:00Z"
+  },
+  {
+    "id": 102,
+    "title": "Setup React Environment",
+    "description": "Initialize the project using Vite and install Tailwind CSS.",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "dueDate": "2025-02-10T10:00:00Z",
+    "createdAt": "2025-01-26T09:30:00Z"
+  },
+  {
+    "id": 103,
+    "title": "Research State Management",
+    "description": "Compare Context API vs Redux for this specific project scope.",
+    "priority": "Low",
+    "status": "Completed",
+    "dueDate": "2025-02-05T16:00:00Z",
+    "createdAt": "2025-01-24T11:00:00Z"
+  },
+  {
+    "id": 104,
+    "title": "Fix Navigation Bug",
+    "description": "The navbar is overlapping with the content on mobile screens.",
+    "priority": "High",
+    "status": "To-Do",
+    "dueDate": "2025-02-14T12:00:00Z",
+    "createdAt": "2025-01-27T08:45:00Z"
+  }
+]
